@@ -5,10 +5,10 @@ function Hero() {
     <div className='p-4 grid grid-cols-1
      md:grid-cols-2 items-center mt-[-20px]'>
         <div>
-            <h4 className='font-bold  to- text-[18px] bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600'>Hello, I’m Rahul</h4>
+            <h4 className='font-bold  text-[18px] bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600'>Hello, I’m Rahul</h4>
             <h1 className='font-extrabold text-[45px]'>Professional <br></br>Full 
             stack Web<br></br> 
-            <span className='text-white bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600 '>Developer</span>
+            <span className='bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600 '>Developer</span>
             </h1>
             <h1 className='text-orange-500 mt-3'>Welcome to my site</h1>
         
